@@ -1,4 +1,4 @@
-# EX-10-Implementation of Univariate Linear Regression
+# EX-09-Implementation of Univariate Linear Regression
 # Date:
 ## Aim:
 To implement univariate Linear Regression to fit a straight line using least squares.
